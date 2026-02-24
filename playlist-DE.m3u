@@ -96,19 +96,16 @@ https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8
 #EXTINF:-1 tvg-name="HR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/HR-Fernsehen_Logo_2023.svg/640px-HR-Fernsehen_Logo_2023.svg.png" tvg-id="HR.de" ,HR
 https://hrhls.akamaized.net/hls/live/2024525/hrhls/master.m3u8
 
-#EXTINF:-1 tvg-name="MDR Sachsen" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/MDR_Sachsen_Logo_2017.svg/1280px-MDR_Sachsen_Logo_2017.svg.png?20220311194444" tvg-id="MDR.de",MDR Sachsen
-https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master.m3u8
+#EXTINF:-1 tvg-name="MDR Sachsen" tvg-logo="https://www.mdr.de/presse/logos/mdr-dachmarke-100-resimage_v-variantBig24x9_w-2048.png" tvg-id="MDR.de",MDR Sachsen
+https://mdr-live.ard-mcdn.de/mdr/live/hls/de/master.m3u8
 
-#EXTINF:-1 tvg-name="RBB Berlin Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/RBB_Berlin_Logo.svg/960px-RBB_Berlin_Logo.svg.png" tvg-id="RBB.de",RBB Berlin Ⓖ
+#EXTINF:-1 tvg-name="RBB Berlin" tvg-logo="https://www.rbb-online.de/content/dam/rbb/rbb/unternehmen/presse/presseinformationen/Logos/RBB_2017_logo_RGB.jpg.jpg/size=966x543.jpg" tvg-id="RBB.de",RBB Berlin
 https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/master.m3u8
 
-#EXTINF:-1 tvg-name="RBB Brandenburg Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Rbb_Fernsehen_Logo_2017.08.svg/640px-Rbb_Fernsehen_Logo_2017.08.svg.png" tvg-id="RBB.de" ,RBB Brandenburg Ⓖ
-https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/master.m3u8
-
 #EXTINF:-1 tvg-name="SWR Baden-Württemberg Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/SWRFernsehenBW_Logo.svg/1280px-SWRFernsehenBW_Logo.svg.png" tvg-id="SWR/SR.de" ,SWR Baden-Württemberg Ⓖ
-https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master.m3u8
+https://mcdn.swr.de/swr/swrbwd/master.m3u8
 
-#EXTINF:-1 tvg-name="SWR Rheinland-Pfalz Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/SWR_Aktuell_Rheinland-Pfalz_Logo_2022_%28schwarz%29.png" tvg-id="SWR/SR.de" ,SWR Rheinland-Pfalz Ⓖ
+#EXTINF:-1 tvg-name="SWR Rheinland-Pfalz Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/SWRRPkurz_Logo.svg/1280px-SWRRPkurz_Logo.svg.png" tvg-id="SWR/SR.de" ,SWR Rheinland-Pfalz Ⓖ
 https://swrrpd-hls.akamaized.net/hls/live/2018676/swrrpd/master.m3u8
 
 #EXTINF:-1 tvg-name="WDR Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wdr_fernsehen_logo_2016.svg/640px-Wdr_fernsehen_logo_2016.svg.png" tvg-id="WDR.de" ,WDR Ⓖ
