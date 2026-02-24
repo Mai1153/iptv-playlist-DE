@@ -84,7 +84,7 @@ https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master
 #EXTINF:-1 tvg-name="Welt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/WELT-HD.jpg" tvg-id="WELT.de" ,Welt
 https://w-live2weltcms.akamaized.net/hls/live/2041019/Welt-LivePGM/index.m3u8
 
-#EXTINF:-1 tvg-name="ZDFinfo Ⓖ" tvg-logo="https://brandguide.zdf.de/pictures/3270/01edfa057b48e94c2c6d807a99dc1820db8eacc6/ZDFinfo_Logo_02.png" tvg-id="ZDFinfo.de" ,ZDFinfo Ⓖ
+#EXTINF:-1 tvg-name="ZDFinfo Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/ZDF_info_HD.svg/1280px-ZDF_info_HD.svg.png" tvg-id="ZDFinfo.de" ,ZDFinfo Ⓖ
 https://zdf-hls-17.akamaized.net/hls/live/2016500/de/veryhigh/master.m3u8
 
 #EXTINF:-1 tvg-name="ZDFneo Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/ZDFneo2017_Logo.svg/1920px-ZDFneo2017_Logo.svg.png" tvg-id="ZDFneo.de" ,ZDFneo Ⓖ
@@ -108,8 +108,8 @@ https://mcdn.swr.de/swr/swrbwd/master.m3u8
 #EXTINF:-1 tvg-name="SWR Rheinland-Pfalz Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/SWRRPkurz_Logo.svg/1280px-SWRRPkurz_Logo.svg.png" tvg-id="SWR/SR.de" ,SWR Rheinland-Pfalz Ⓖ
 https://swrrpd-hls.akamaized.net/hls/live/2018676/swrrpd/master.m3u8
 
-#EXTINF:-1 tvg-name="WDR Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wdr_fernsehen_logo_2016.svg/640px-Wdr_fernsehen_logo_2016.svg.png" tvg-id="WDR.de" ,WDR Ⓖ
+#EXTINF:-1 tvg-name="WDR Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/WDR_HD_Logo_2019.svg/1280px-WDR_HD_Logo_2019.svg.png" tvg-id="WDR.de" ,WDR Ⓖ
 https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8
 
-#EXTINF:-1 tvg-name="NDR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/578px-Logo_NDR_Fernsehen_2017.svg.png" tvg-id="NDR.de" ,NDR
+#EXTINF:-1 tvg-name="NDR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/NDR_HD.svg/960px-NDR_HD.svg.png" tvg-id="NDR.de" ,NDR
 https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
