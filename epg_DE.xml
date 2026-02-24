@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tv generator-info-name="none" generator-info-url="none">
+  <channel id="Das.Erste.de">
+    <display-name lang="de">Das Erste</display-name>
+    <url>http://www.tvtoday.de</url>
+  </channel>
+  <channel id="ZDF.de">
+    <display-name lang="de">ZDF</display-name>
+    <url>http://www.tvtoday.de</url>
+  </channel>
+  <channel id="RTL.de">
+    <display-name lang="de">RTL</display-name>
+    <url>http://www.tvtoday.de</url>
+  </channel>
+  <channel id="SAT.1.de">
+    <display-name lang="de">SAT.1</display-name>
+    <url>http://www.tvtoday.de</url>
+  </channel>
+  <channel id="ProSieben.de">
+    <display-name lang="de">ProSieben</display-name>
+    <url>http://www.tvtoday.de</url>
+  </channel>
+  <channel id="kabel.eins.de">
+    <display-name lang="de">kabel eins</display-name>
+    <url>http://www.tvtoday.de</url>
+  </channel>
+  <channel id="RTLZWEI.de">
