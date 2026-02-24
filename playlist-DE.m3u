@@ -102,10 +102,10 @@ https://hrhls.akamaized.net/hls/live/2024525/hrhls/master.m3u8
 #EXTINF:-1 tvg-name="MDR Sachsen Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/MDR_Sachsen_Logo_2017.svg/1280px-MDR_Sachsen_Logo_2017.svg.png?20220311194444" tvg-id="MDR Sachsen.de",MDR Sachsen Ⓖ
 https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master.m3u8
 
-#EXTINF:-1 tvg-name="MDR Sachsen-Anhalt Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/MDR_Logo_2017.svg/640px-MDR_Logo_2017.svg.png" tvg-id="MDRFernsehenSachsenAnhalt.de" tvg-id="MDR Sachsen-Anhalt.de",MDR Sachsen-Anhalt Ⓖ
+#EXTINF:-1 tvg-name="MDR Sachsen-Anhalt Ⓖ" tvg-logo="https://www.mdr.de/nachrichten/sachsen-anhalt/logo-mdr-sachsen-anhalt-102_v-variantBig16x9_wm-true_zc-ecbbafc6.png" tvg-id="MDRFernsehenSachsenAnhalt.de" tvg-id="MDR Sachsen-Anhalt.de",MDR Sachsen-Anhalt Ⓖ
 https://mdrtvsahls.akamaized.net/hls/live/2016879/mdrtvsa/master.m3u8
 
-#EXTINF:-1 tvg-name="MDR Thüringen Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/MDR_Logo_2017.svg/640px-MDR_Logo_2017.svg.png" tvg-id="MDRFernsehenThuringen.de" tvg-id="MDR Thuringen.de",MDR Thüringen Ⓖ
+#EXTINF:-1 tvg-name="MDR Thüringen Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/MDR_Th%C3%BCringen_Logo_2017.svg/960px-MDR_Th%C3%BCringen_Logo_2017.svg.png" tvg-id="MDRFernsehenThuringen.de" tvg-id="MDR Thuringen.de",MDR Thüringen Ⓖ
 https://mdrtvthhls.akamaized.net/hls/live/2016880/mdrtvth/master.m3u8
 
 #EXTINF:-1 tvg-name="RBB Berlin Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/RBB_Berlin_Logo.svg/960px-RBB_Berlin_Logo.svg.png" tvg-id="rbb fernsehen Berlin.de",RBB Berlin Ⓖ
